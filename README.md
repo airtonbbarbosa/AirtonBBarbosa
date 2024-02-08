@@ -1,4 +1,4 @@
 Eaí 👋, me chamo Airton
 - 👨‍💻 Programador e Desenvolvedor(autodidata)
-- 📫 Para entra em contato comigo airtonbbarbosadev@gmail.com
+- 📫 Para entrar em contato airtonbbarbosadev@gmail.com
 - ⚡ HTML/CSS/JS/PHP
