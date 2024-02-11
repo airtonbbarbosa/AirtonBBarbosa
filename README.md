@@ -2,6 +2,11 @@
 
 - 👨‍💻 Programador e Desenvolvedor(autodidata)
 - Email airtonbbarbosadev@gmail.com
+
+##
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonBBarbosa&theme=blue-green"/>  
+</div>
   
 ## Tecnologias favoritas
 <div style="display: inline_block">
