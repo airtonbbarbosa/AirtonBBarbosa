@@ -1,6 +1,6 @@
 ## Eaí 👋, me chamo Airton
 
-- 👨‍💻 Programador e Desenvolvedor(autodidata)
+- 👨‍💻 Programador e Desenvolvedor(estudante)
 - Email airtonbbarbosadev@gmail.com
 
   
